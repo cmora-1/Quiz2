@@ -6,4 +6,7 @@ router.get('/', function(req, res) {
   res.render('index', { title: 'Quiz' });
 });
 
+router.get('/author', function(req, res) {
+  res.render('author', { autor: 'Carlos Mora' });
+});
 module.exports = router;
