@@ -1,5 +1,9 @@
 #!/usr/bin/env node
+<<<<<<< HEAD
 var debug = require('debug')('quiz');
+=======
+var debug = require('debug')('Quiz2');
+>>>>>>> 0d90f33cff57c9d0a644d07fd4fe2c29cb6694fa
 var app = require('../app');
 
 app.set('port', process.env.PORT || 3000);

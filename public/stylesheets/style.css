@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *         {margin: 0; padding: 0; }
 
 body      {font: 16px Georgia, serif; }
@@ -9,3 +10,13 @@ secion > div         {padding: 20px; }
 header, nav, section {background: #eee; text-align: center; }
 footer               {background: #eee; text-align: center; }
 nav span             { margin: 0px 10px 0px 0px; }
+=======
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+>>>>>>> 0d90f33cff57c9d0a644d07fd4fe2c29cb6694fa
